@@ -1,6 +1,6 @@
 # Material Extra
 
-Aquí, adjunto el materíal extra perteneciente a actividades de la U.A. de Informática.
+Aquí, adjunto el material extra perteneciente a actividades de la U.A. de Informática.
 
 ----------------------------------------
 ## Informática Ecológica (UNAM-FESI-Ecología)
